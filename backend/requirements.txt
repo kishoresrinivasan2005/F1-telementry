@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+websockets
+sqlalchemy
+asyncpg
+pydantic
+pydantic-settings
+psycopg2-binary
+alembic
+fastf1
+pandas
+numpy
+scikit-learn
+xgboost
+python-multipart
